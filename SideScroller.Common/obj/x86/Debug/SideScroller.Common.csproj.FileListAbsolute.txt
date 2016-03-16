@@ -1,0 +1,6 @@
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller.Common\bin\x86\Debug\SideScroller.Common.dll
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller.Common\bin\x86\Debug\SideScroller.Common.pdb
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller.Common\obj\x86\Debug\SideScroller.Common.csprojResolveAssemblyReference.cache
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller.Common\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller.Common\obj\x86\Debug\SideScroller.Common.dll
+C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller.Common\obj\x86\Debug\SideScroller.Common.pdb

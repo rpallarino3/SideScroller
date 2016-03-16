@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.Dictionary[int, System.String]">
+    <Item>
+      <Key>0</Key>
+      <Value>NormalTroll/NormalTrollAtlas1</Value>
+    </Item>
+  </Asset>
+</XnaContent>

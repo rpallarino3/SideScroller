@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <Asset Type="System.Collections.Generic.Dictionary[int, System.String]">
+    <Item>
+      <Key>0</Key>
+      <Value>FloorLeft</Value>
+    </Item>
+    <Item>
+      <Key>1</Key>
+      <Value>FloorRight</Value>
+    </Item>
+    <Item>
+      <Key>2</Key>
+      <Value>Test1Background</Value>
+    </Item>
+  </Asset>
+</XnaContent>

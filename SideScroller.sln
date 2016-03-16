@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SideScroller", "SideScroller\SideScroller\SideScroller.csproj", "{3B743382-4F3C-4305-94C1-B68ECA8306C8}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "SideScrollerContent", "SideScroller\SideScrollerContent\SideScrollerContent.contentproj", "{96095549-48E1-4A25-9F4E-75B13F4454C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SideScroller.Common", "SideScroller.Common\SideScroller.Common.csproj", "{678C934C-C6B8-4921-AD44-2E39AA9A48AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SideScroller.ResourceManagement", "SideScroller.ResourceManagement\SideScroller.ResourceManagement.csproj", "{8B646514-3A6B-4757-B82B-B79F0B3C74AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B743382-4F3C-4305-94C1-B68ECA8306C8}.Debug|x86.ActiveCfg = Debug|x86
+		{3B743382-4F3C-4305-94C1-B68ECA8306C8}.Debug|x86.Build.0 = Debug|x86
+		{3B743382-4F3C-4305-94C1-B68ECA8306C8}.Release|x86.ActiveCfg = Release|x86
+		{3B743382-4F3C-4305-94C1-B68ECA8306C8}.Release|x86.Build.0 = Release|x86
+		{96095549-48E1-4A25-9F4E-75B13F4454C3}.Debug|x86.ActiveCfg = Debug|x86
+		{96095549-48E1-4A25-9F4E-75B13F4454C3}.Release|x86.ActiveCfg = Release|x86
+		{678C934C-C6B8-4921-AD44-2E39AA9A48AF}.Debug|x86.ActiveCfg = Debug|x86
+		{678C934C-C6B8-4921-AD44-2E39AA9A48AF}.Debug|x86.Build.0 = Debug|x86
+		{678C934C-C6B8-4921-AD44-2E39AA9A48AF}.Release|x86.ActiveCfg = Release|x86
+		{678C934C-C6B8-4921-AD44-2E39AA9A48AF}.Release|x86.Build.0 = Release|x86
+		{8B646514-3A6B-4757-B82B-B79F0B3C74AA}.Debug|x86.ActiveCfg = Debug|x86
+		{8B646514-3A6B-4757-B82B-B79F0B3C74AA}.Debug|x86.Build.0 = Debug|x86
+		{8B646514-3A6B-4757-B82B-B79F0B3C74AA}.Release|x86.ActiveCfg = Release|x86
+		{8B646514-3A6B-4757-B82B-B79F0B3C74AA}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

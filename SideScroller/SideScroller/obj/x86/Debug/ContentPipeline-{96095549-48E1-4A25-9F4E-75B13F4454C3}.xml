@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>EnvironmentTextures\Test2\Test2Background.png</Source>
+      <Name>EnvironmentTextures\Test2\Test2Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\EnvironmentTextures\Test2\Test2Background.xnb</Output>
+      <Time>2016-02-18T23:04:55.4474973-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EnvironmentTextures\Test1\FloorLeft.png</Source>
+      <Name>EnvironmentTextures\Test1\FloorLeft</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\EnvironmentTextures\Test1\FloorLeft.xnb</Output>
+      <Time>2016-02-10T20:14:53.6144016-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EnvironmentTextures\Test1\FloorRight.png</Source>
+      <Name>EnvironmentTextures\Test1\FloorRight</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\EnvironmentTextures\Test1\FloorRight.xnb</Output>
+      <Time>2016-02-10T20:15:01.9768799-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EnvironmentTextures\Test2\Floor1.png</Source>
+      <Name>EnvironmentTextures\Test2\Floor1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\EnvironmentTextures\Test2\Floor1.xnb</Output>
+      <Time>2016-02-10T20:17:23.1079522-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EnvironmentTextures\Test2\Floor2.png</Source>
+      <Name>EnvironmentTextures\Test2\Floor2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\EnvironmentTextures\Test2\Floor2.xnb</Output>
+      <Time>2016-02-10T20:17:29.1552981-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EnvironmentTextures\Test2\Floor3.png</Source>
+      <Name>EnvironmentTextures\Test2\Floor3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\EnvironmentTextures\Test2\Floor3.xnb</Output>
+      <Time>2016-02-10T20:17:34.8816256-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EnvironmentTextures\Test2\Floor4.png</Source>
+      <Name>EnvironmentTextures\Test2\Floor4</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\EnvironmentTextures\Test2\Floor4.xnb</Output>
+      <Time>2016-02-10T20:17:40.6359547-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EnvironmentTextures\Test3\Floor.png</Source>
+      <Name>EnvironmentTextures\Test3\Floor</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\EnvironmentTextures\Test3\Floor.xnb</Output>
+      <Time>2016-02-15T23:00:51.2841944-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EnvironmentTextures\Test1\Test1Background.png</Source>
+      <Name>EnvironmentTextures\Test1\Test1Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\EnvironmentTextures\Test1\Test1Background.xnb</Output>
+      <Time>2016-02-18T23:23:43.1431568-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EnvironmentTextures\Test3\Test3Background.png</Source>
+      <Name>EnvironmentTextures\Test3\Test3Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\EnvironmentTextures\Test3\Test3Background.xnb</Output>
+      <Time>2016-02-18T23:05:07.9032097-05:00</Time>
+    </Item>
+    <Item>
+      <Source>MenuTextures\ExitMenuBackground.png</Source>
+      <Name>MenuTextures\ExitMenuBackground</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\MenuTextures\ExitMenuBackground.xnb</Output>
+      <Time>2016-02-20T21:16:35.2539715-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EnvironmentTextures\Test1\Test1Names.xml</Source>
+      <Name>EnvironmentTextures\Test1\Test1Names</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\EnvironmentTextures\Test1\Test1Names.xnb</Output>
+      <Time>2016-02-15T22:59:41.5442055-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EnvironmentTextures\Test2\Test2Names.xml</Source>
+      <Name>EnvironmentTextures\Test2\Test2Names</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\EnvironmentTextures\Test2\Test2Names.xnb</Output>
+      <Time>2016-02-15T22:59:53.3278795-05:00</Time>
+    </Item>
+    <Item>
+      <Source>EnvironmentTextures\Test3\Test3Names.xml</Source>
+      <Name>EnvironmentTextures\Test3\Test3Names</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\EnvironmentTextures\Test3\Test3Names.xnb</Output>
+      <Time>2016-02-15T23:00:09.1997874-05:00</Time>
+    </Item>
+    <Item>
+      <Source>CharacterAnimations\PlayerCharacter\PlayerCharacterAtlas1.png</Source>
+      <Name>CharacterAnimations\PlayerCharacter\PlayerCharacterAtlas1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\CharacterAnimations\PlayerCharacter\PlayerCharacterAtlas1.xnb</Output>
+      <Time>2016-03-13T18:31:45.3713495-04:00</Time>
+    </Item>
+    <Item>
+      <Source>CharacterAnimations\CharacterThemeLoad\VillageThemeCharacters.xml</Source>
+      <Name>CharacterAnimations\CharacterThemeLoad\VillageThemeCharacters</Name>
+      <Importer>XmlImporter</Importer>
+      <Processor>PassThroughProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\CharacterAnimations\CharacterThemeLoad\VillageThemeCharacters.xnb</Output>
+      <Time>2016-02-25T21:53:32.4078691-05:00</Time>
+    </Item>
+    <Item>
+      <Source>WeaponTextures\TestPierceTexture.png</Source>
+      <Name>WeaponTextures\TestPierceTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\WeaponTextures\TestPierceTexture.xnb</Output>
+      <Time>2016-03-12T22:39:10.395292-05:00</Time>
+    </Item>
+    <Item>
+      <Source>WeaponTextures\TestBluntTexture.png</Source>
+      <Name>WeaponTextures\TestBluntTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\WeaponTextures\TestBluntTexture.xnb</Output>
+      <Time>2016-03-12T22:38:27.8348577-05:00</Time>
+    </Item>
+    <Item>
+      <Source>WeaponTextures\TestSlashTexture.png</Source>
+      <Name>WeaponTextures\TestSlashTexture</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\WeaponTextures\TestSlashTexture.xnb</Output>
+      <Time>2016-03-12T22:38:49.5841017-05:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{96095549-48E1-4A25-9F4E-75B13F4454C3}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller\SideScrollerContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller\SideScroller\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller\SideScroller\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Ryan\Documents\Visual Studio 2012\Projects\SideScroller\SideScroller\SideScroller\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2014-02-27T23:46:18.5561792-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
